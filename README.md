@@ -1,4 +1,4 @@
-# IEEE_TGRS_CSSM
+# IEEE_JSTARS_OLSS-Mamba
 [JSTARS 2026]The code in this toolbox implements the "OLSS-Mamba: Order-aware Low-rank Spectral-Spatial Mamba for Hyperspectral Image Classification". <br />
 
 
@@ -22,3 +22,4 @@ https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Pavia
 
 # Contact Information
 Lulu Shi: nudtersll@126.com<br />
+Lulu Shi is currently pursuing the Ph.D. degree in Engineering with the School of Artificial Intelligence and Robotics, Hunan University, Changsha, China.
